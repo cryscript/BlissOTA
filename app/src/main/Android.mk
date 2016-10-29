@@ -7,7 +7,7 @@ cardview_dir := $(LOCAL_PATH)/../../../../../../frameworks/support/v7/cardview/r
 
 LOCAL_CERTIFICATE       := platform
 LOCAL_MODULE_TAGS       := optional
-LOCAL_PACKAGE_NAME      := BlissOTA
+LOCAL_PACKAGE_NAME      := FedorOTA
 LOCAL_PRIVILEGED_MODULE := true
 
 LOCAL_STATIC_JAVA_LIBRARIES := \

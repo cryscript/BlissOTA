@@ -1,4 +1,4 @@
-# TeamBlissOTA - Updater for custom ROMs
+# OTA - Updater for ROMs
 
 With this new version, it now requests Marshmallow permissions at runtime, and if denied, it will close the app.
 

@@ -15,7 +15,7 @@ limitations under the License.
 
 -->
 <resources>
-    <string name="app_name">Artmod обновления</string>
+    <string name="app_name">Обновления</string>
     <string name="cancel">Отмена</string>
     <string name="ok">OK</string>
     <string name="delete">Удалить</string>
@@ -34,7 +34,7 @@ limitations under the License.
     <string name="about_credits_title">Благодарность</string>
     <string name="about_credits_summary">Credits Summary</string>
     <string name="about_donate_title">Пожертвования</string>
-    <string name="about_donate_summary">Если это приложение нравится Вам, пожалуйста подумайте о пожертвовании для разработчика - Kryten2k35</string>
+    <string name="about_donate_summary">Если это приложение нравится Вам, пожалуйста подумайте о пожертвовании для разработчика программы - Kryten2k35</string>
     <string name="about_donate_button_summary">Пожертвовать</string>
     <string name="available_update_name">Имя обновления и данные о файле здесь</string>
     <string name="available_progress_counter">0MB / 0MB</string>
@@ -110,8 +110,8 @@ limitations under the License.
     <string name="theme_title">Тема программы</string>
     <string name="mobile_wifi_network">Сеть</string>
     <string name="mobile_wifi_title">Обновлять прошивку</string>
-    <string name="wifi_network_only">Wi-Fi</string>
-    <string name="mobile_or_wifi">Передача данных и Wi-Fi</string>
+    <string name="wifi_network_only">Только по Wi-Fi</string>
+    <string name="mobile_or_wifi">Моб. данные и Wi-Fi</string>
     <string name="theme">Тема</string>
     <string name="theme_dark">Темная</string>
     <string name="theme_light">Светлая</string>
@@ -119,4 +119,20 @@ limitations under the License.
     <string name="notifications_sound">Звук</string>
     <string name="notifications_vibrate">Вибрация</string>
     <string name="silent_ringtone">Без звука</string>
+    <string name="notification_ignore_release_title">Пропустить обновление</string>
+    <string name="notification_ignoring_release">Пропущенное обновление: </string>
+    <string name="notification_not_ignoring_release">Вы не пропустили ни одно обновление</string>
+    <string name="about_title">О программе</string>
+    <string name="about_preferences_summary">Информация о программе, авторах и пожертвованиях.</string>
+    <string name="about_credits_summary">Благодарность</string>
+    <string name="about_donate_title_cdt">Пожертвовать Fedor917</string>
+    <string name="about_donate_title_matt">Пожертвовать Matt Booth (Kryten2k35)</string>
+    <string name="about_donate_summary_cdt">Если вам нравятся мои сборки и вы хотели бы поддержать меня, я был бы очень благодарен!</string>
+    <string name="about_donate_summary_matt">Если вам нравится это приложение, вы можете поддержать Matt Booth за хорошую основу для данного приложения!</string>
+    <string name="about_version_title">Версия</string>
+    <string name="about_app_version">Версия программы:</string>
+    <string name="changelog_summary">Показать список изменений приложения</string>
+    <string name="changelog_error">Ошибка чтения списка изменений</string>
+    <string name="main_update_finished">Загрузка завершена</string>
+    <string name="available_changelog">Изменения</string>
 </resources>
