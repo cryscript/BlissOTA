@@ -62,7 +62,7 @@ limitations under the License.
     <string name="main_update_progress">Состояние обновления</string>
     <string name="main_website">Сайт</string>
     <string name="main_donate">Пожертвование</string>
-    <string name="main_donate_summary">Пожертвование разработчику прошивки</string>
+    <string name="main_donate_summary">Пожертвовать Fedor917</string>
     <string name="main_tap_to_download">Кликните для загрузки</string>
     <string name="main_download_completed_details">Загрузка завершена. Кликните для подробностей</string>
     <string name="main_last_checked">Последняя проверка обновлений</string>
