@@ -32,7 +32,7 @@
     <string name="prop_rom_version" translatable="false">ro.modversion</string>
     <string name="prop_developer" translatable="false">ro.build.user</string>
 
-    <string name="changelog_url" translatable="false">https://raw.githubusercontent.com/cryscript/misc/SM2/changelog.txt</string>
+    <string name="changelog_url" translatable="false">https://raw.githubusercontent.com/cryscript/misc/Slim-M/changelog.txt</string>
 
     <!-- Generic strings -->
     <string name="cancel">Cancel</string>
